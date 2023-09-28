@@ -1,7 +1,7 @@
 - I’m @PokeTheUnknown.
 - I do Web Dev
 - I’m currently Grade 9
-- I’m looking to collaborate on Web Developing on a website for trading.
+- Currently working with my team to biuld a eCommerce platform!
 - You can reach me by sending me a message through email.[poke83490theunknown@gmail.com]
 - 🍜🍜🍜
 <!---
